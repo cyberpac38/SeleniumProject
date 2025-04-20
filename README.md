@@ -1,6 +1,6 @@
 # Selenium Chrome Test: Validate Installation and Basic Setup
 
-This repository contains a basic Selenium test script written in Python. The purpose of this test is to validate that Selenium is installed correctly, ChromeDriver is configured properly, and the automation setup works as expected by simply opening a website.
+This repository contains a basic Selenium test script written in Python. This test aims to validate that Selenium is installed correctly, ChromeDriver is configured properly, and the automation setup works as expected by simply opening a website.
 
 ## 📌 Objective
 
